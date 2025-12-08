@@ -1,5 +1,5 @@
-from algorithms.dfs import SimpleDFS
-from utils.display import slow_print
+from algoscape.algorithms.dfs import SimpleDFS
+from algoscape.utils.display import slow_print
 
 def play_room():
     print("\n" + "=" * 50)

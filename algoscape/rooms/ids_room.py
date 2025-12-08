@@ -1,8 +1,8 @@
 """
 Room 3: IDS Memory Challenge
 """
-from algorithms.ids import SimpleIDS
-from utils.display import slow_print
+from algoscape.algorithms.ids import SimpleIDS
+from algoscape.utils.display import slow_print
 
 def play_room():
     print("\n" + "=" * 50)

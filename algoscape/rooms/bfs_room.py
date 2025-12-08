@@ -1,5 +1,5 @@
-from algorithms.bfs import SimpleBFS
-from utils.display import slow_print
+from algoscape.algorithms.bfs import SimpleBFS
+from algoscape.utils.display import slow_print
 
 def play_room():
     print("\nBFS Maze Game")
